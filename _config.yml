@@ -1,0 +1,35 @@
+name: ' '
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1498088a-a2c1-495c-806a-0b2a86a84570.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d279d369-721b-49ca-b94b-f6e78857d7fb.jpg
+layout_spectrum: 0.20559353451244533
+typography_spectrum: 0.7784563512541354
+analytics:
+  facebook: ''
+  google: Sakil7602630642@gmail.com
+opengraph:
+  type: Home
+  appId: Chat
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/06e01791-70d4-4b5d-93a6-b6e3b2f41c33.jpg
+color:
+  brandColors:
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+  brandStrength: 0.37271399772726
+  lightness: 0.19676715368404984
+  saturation: 0.7229401918593794
+  rhythmicContrast: 0.49840749078430235
+title: SAKIL
+description: Chat
+author:
+  name: Sakil Akhtar
+  email: sakil7602630642@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
